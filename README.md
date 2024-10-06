@@ -9,10 +9,10 @@
 - 💬 You can ask me questions about any of my projects; I'll answer as soon as I read them!
   
 - 📫 Wanna reach me ??
-       My Email:umeraijaz32@gmail.com ;
-       My twitter:https://x.com/;
-       My linkedIn:https://www.linkedin.com/.
+-   My Email:umeraijaz32@gmail.com ;
+-   My twitter:https://x.com/;
+-   My linkedIn:https://www.linkedin.com/.
   
-- 😄 Pronouns: He/Him (or whatever you prefer)
-- 
-⚡ Fun fact: I can recite the first ten digits of Pi—3.1415926535!
+-  😄 Pronouns: He/Him (or whatever you prefer)
+  
+- ⚡ Fun fact: I can recite the first ten digits of Pi—3.1415926535!
