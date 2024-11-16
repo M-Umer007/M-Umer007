@@ -11,7 +11,7 @@
 - 📫 Wanna reach me ??
 -   My Email:umeraijaz32@gmail.com ;
 -   My twitter:https://x.com/;
--   My linkedIn:https://www.linkedin.com/.
+-   My linkedIn:[https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-umer-5047322ba/).
   
 -  😄 Pronouns: He/Him (or whatever you prefer)
   
