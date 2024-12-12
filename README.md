@@ -1,6 +1,6 @@
 ## Hey I am M-Umer 👋
 
-- 🔭 I've been coding in Typescript for over a year
+- 🔭 I've been coding in Typescript since 2022.
   
 - 🌱 I’m currently learning a framework called Next.js.
   
