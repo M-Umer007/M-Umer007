@@ -3,7 +3,6 @@
 - 🔭 I've been coding in Typescript since 2022.
   
 - 🌱 I’m currently learning a framework called Next.js.
-
 -<h2> 🚀 &nbsp;Some Technologies I Have Worked On</h2>
 <p align="left">
 
@@ -18,8 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="45" />
 
 </p>
-
-  
 - 🤔 I’m a hungry learner; if you have any advice, feel free to reach out! I promise I won't judge you.
   
 - 💬 You can ask me questions about any of my projects; I'll answer as soon as I read them!
