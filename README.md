@@ -17,13 +17,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="45" />
 
 </p>
-- 🤔 I’m a hungry learner; if you have any advice, feel free to reach out! I promise I won't judge you.
-  
 - 💬 You can ask me questions about any of my projects; I'll answer as soon as I read them!
   
 - 📫 Wanna reach me ??
 -   My Email:umeraijaz32@gmail.com ;
--   My twitter:https://x.com/;
 -   My linkedIn:[https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-umer-5047322ba/).
   
 -  😄 Pronouns: He/Him (or whatever you prefer)
