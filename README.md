@@ -4,22 +4,21 @@
   
 - 🌱 I’m currently learning a framework called Next.js.
 
-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-    <p align="left">
-      
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-      
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" height="45" />
+-<h2> 🚀 &nbsp;Some Technologies I Have Worked On</h2>
+<p align="left">
 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="45" />
-          
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.JS" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin-right: 10px;" />
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  alt="Tailwind CSS" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" height="45" style="margin-right: 10px;" />
 
-    
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="45" style="margin-right: 10px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.JS" width="45" height="45" style="margin-right: 10px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="45" />
+
 </p>
+
   
 - 🤔 I’m a hungry learner; if you have any advice, feel free to reach out! I promise I won't judge you.
   
