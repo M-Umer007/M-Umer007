@@ -3,8 +3,7 @@
 - 🔭 I've been coding in Typescript since 2022.
   
 - 🌱 I’m currently learning a framework called Next.js.
-
--<h2> 🚀 &nbsp;Some Technologies I Have Worked On</h2>
+  <h2> 🚀 &nbsp;Some Technologies I Have Worked On</h2>
       <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin-right: 10px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" height="45" style="margin-right: 10px;" />
