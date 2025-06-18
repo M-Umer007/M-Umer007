@@ -1,4 +1,4 @@
-## Hey I am M-Umer 👋
+## Hey I am M-Umer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align:middle" />
 
 - 🔭 I've been coding since 2022.
   
