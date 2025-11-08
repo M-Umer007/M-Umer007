@@ -18,5 +18,3 @@
 -   My linkedIn:[https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-umer-5047322ba/).
   
 -  😄 Pronouns: He/Him (or whatever you prefer)
-  
-- ⚡ Fun fact: I can recite the first ten digits of Pi—3.1415926535!
